@@ -5,4 +5,4 @@
 * ML -- load machine learning models for debris flow susceptibility
 * net -- build Deep Neural Networks
 * Trains -- load samples and train DNN
-* predict -- generate debris flow susceptibility maps
+* predict -- generate debris flow susceptibility maps  
